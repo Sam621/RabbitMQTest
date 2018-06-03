@@ -1,3 +1,3 @@
 # RabbitMQTest
 
-Basic apllication which show message passing with RabbitMq
+Basic aplication which shows message passing with RabbitMq
